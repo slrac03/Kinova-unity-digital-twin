@@ -1,0 +1,24 @@
+N_participante,Nombre,Edad,Experiencia previa con RV,Conocimiento de robótica,Carrera,SUS_1: Me pareció natural e intuitiva la manipulación del brazo robótico con gestos,SUS_2: El sistema era innecesariamente complejo para manipular el brazo robótico,SUS_3: Considero que el gesto de “pinch” permitió mover el brazo de forma precisa,SUS_4: Sentí que necesitaría apoyo técnico para usar este sistema,"SUS_5: Las interfaces XR (paneles, desplazamiento) fueron claras y fáciles de comprender",SUS_6: Encontré que había demasiada inconsistencia en el funcionamiento del sistema,SUS_7: El asistente NLP entendió mis solicitudes y sus respuestas fueron útiles,SUS_8: Pienso que el sistema era difícil de aprender a usar,"SUS_9: En general, me sentí confiado usando el sistema",SUS_10: Necesité aprender muchas cosas antes de poder usar el sistema de forma eficaz
+1,Juan Sebastian Lasso Jimenez,23,1,1,Quimica,4,4,4.0,2,3,1,5,1,5,3
+2,Joan Sebastian Umaña Jimenez,23,1,2,Ingenieria de Sistemas,5,3,4.0,1,4,2,5,1,5,1
+3,Juan Sebastian Herrera Ordoñez,28,3,4,Ingenieria Electronica,3,1,4.0,3,5,2,5,1,5,2
+4,Santiago Melo Quimbay,23,2,3,Ingenieria Electronica,4,2,5.0,3,5,1,5,1,4,2
+5,Daniela Salcedo Aristizabal,19,1,1,Bioingenieria,5,1,5.0,2,4,2,5,2,5,1
+6,Juan David Rodriguez Vidal,22,4,2,Ingenieria de Sistemas,5,2,3.0,1,4,3,5,2,5,2
+7,Daniela Bravo Arteaga,23,1,3,Ingenieria Electronica,4,1,5.0,1,5,3,5,3,5,3
+8,Valentina Rodriguez Yarce,26,2,3,Ingenieria Electronica,4,1,3.0,2,4,3,5,3,5,1
+9,Juan Diego Perez Rodriguez,24,2,2,Ingenieria de Sistemas,4,2,5.0,2,5,1,5,3,5,3
+10,Leonardo Cordoba Quevedo,24,1,3,Ingenieria Electronica,5,1,3.0,2,4,3,5,3,5,1
+11,Santiago Valencia Torres,19,3,2,Ingenieria Electronica,4,1,5.0,3,5,3,4,1,4,1
+12,Ivan Santiago Calderon Gomez,20,2,2,Ingenieria Electronica,5,1,5.0,3,5,3,5,1,5,1
+13,Ximena Catolico Cuervo,19,3,2,Bioingenieria,5,1,5.0,1,5,3,5,3,5,1
+14,Sergio Vega Quintero,22,1,2,Ingenieria Electronica,3,3,4.0,1,4,2,4,1,4,2
+15,Sebastian Manquillo Escobar,19,1,1,Ingenieria Electronica,4,1,5.0,1,5,2,5,1,5,2
+16,Joao Ronaldo Paredes,27,1,2,Ingenieria Electronica,5,2,5.0,3,5,3,5,3,4,2
+17,Daniela Parra Gonzales,26,1,4,Ingenieria Electronica,5,1,5.0,2,5,2,4,2,5,1
+18,Laura Hering ,31,1,2,Bioingenieria,4,1,,4,5,1,5,1,5,2
+19,Jorge Andres Giraldo Erazo,22,1,3,Ingenieria Electronica,5,1,,1,4,1,5,2,5,1
+20,Jose Gabriel Borja Ordoniez,25,2,3,Ingenieria Electronica,5,1,,1,5,1,4,1,5,1
+21,José Miguel,23,3,4,Ingenieria Electronica,4,2,,2,4,1,5,1,5,2
+22,Nicolas Sacristan,26,1,4,Ingenieria Electronica,3,1,,1,4,4,5,1,5,1
+23,Jhonatan Roseo,22,1,3,Ingenieria Electronica,3,2,,2,4,2,4,2,4,2
