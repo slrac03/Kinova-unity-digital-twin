@@ -48,5 +48,5 @@ The system was designed for **educational and training purposes**, allowing stud
   - There's a *RosConnectorObject* inside a empty GameObject **ROS**, this is the one you'll be able to config to make the connections.
   - Inside RosBridgeServerUrl make sure it's ```ws://192.168.1.11:9090``` writed and using ```Newtonsoft_JSON``` with ```Web Socket Sharp``` protocol
 
-## Follow this video to [connect the Quest3](https://www.youtube.com/watch?v=T6Y0rV_1GQc), make sure [developer mode](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/) in the Meta Account is active
+## [Connect your Quest 3](https://www.meta.com/es-es/help/quest/509273027107091/?srsltid=AfmBOoo5QAeN4tBAfz2ILFViQ5oa-l1PmqJ-EigVzK4WY6tlB7oNnlto) to your pc and make sure [developer mode](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/) in the Meta Account is active
 
