@@ -16,9 +16,9 @@ N_participante,Nombre,Edad,Experiencia previa con RV,Conocimiento de robótica,C
 15,Sebastian Manquillo Escobar,19,1,1,Ingenieria Electronica,4,1,5.0,1,5,2,5,1,5,2
 16,Joao Ronaldo Paredes,27,1,2,Ingenieria Electronica,5,2,5.0,3,5,3,5,3,4,2
 17,Daniela Parra Gonzales,26,1,4,Ingenieria Electronica,5,1,5.0,2,5,2,4,2,5,1
-18,Laura Hering ,31,1,2,Bioingenieria,4,1,,4,5,1,5,1,5,2
-19,Jorge Andres Giraldo Erazo,22,1,3,Ingenieria Electronica,5,1,,1,4,1,5,2,5,1
-20,Jose Gabriel Borja Ordoniez,25,2,3,Ingenieria Electronica,5,1,,1,5,1,4,1,5,1
-21,José Miguel,23,3,4,Ingenieria Electronica,4,2,,2,4,1,5,1,5,2
-22,Nicolas Sacristan,26,1,4,Ingenieria Electronica,3,1,,1,4,4,5,1,5,1
-23,Jhonatan Roseo,22,1,3,Ingenieria Electronica,3,2,,2,4,2,4,2,4,2
+18,Laura Hering ,31,1,2,Bioingenieria,4,1,3,4,5,1,5,1,5,2
+19,Jorge Andres Giraldo Erazo,22,1,3,Ingenieria Electronica,5,1,4,1,4,1,5,2,5,1
+20,Jose Gabriel Borja Ordoniez,25,2,3,Ingenieria Electronica,5,1,4,1,5,1,4,1,5,1
+21,José Miguel,23,3,4,Ingenieria Electronica,4,2,5,2,4,1,5,1,5,2
+22,Nicolas Sacristan,26,1,4,Ingenieria Electronica,3,1,5,1,4,4,5,1,5,1
+23,Jhonatan Roseo,22,1,3,Ingenieria Electronica,3,2,5,2,4,2,4,2,4,2
